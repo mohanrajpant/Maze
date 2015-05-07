@@ -37,6 +37,3 @@ How to run this project:
 3) Right click on MazeApplication.java, it instantiate all the bean and print the maze onto the console.
 
 4) Run command mvn clean test to run the junit and as well as it generate code coverage report. The report will be available in target/coverage-reports/ folder
-
-
-2) MavenApplication is instantiated but does not h
